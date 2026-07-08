@@ -37,7 +37,7 @@ These datasets were merged into a single **Master Table** using **XLOOKUP**, ena
 
 ## 📊 Dashboard
 
-The interactive Excel dashboard includes the following KPIs:
+The <a href="https://github.com/ruhi1326/Retail_Bicycle_Dashboard/blob/main/Retail_Bicycle_Dashboard.xlsx" >Interactive Excel dashboard</a> includes the following KPIs:
 
 - **Total Revenue**
 - **Total Customers**
